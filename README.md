@@ -14,6 +14,6 @@ El software lo construimos entre todos 💛
 
 ## Contacto
 
-Este proyecto es creado y mantenido por [Juan Sebastian Urrea](https://github.com/SergioZona) (sj.zona@uniandes.edu.co)
+Este proyecto es creado y mantenido por [Sergio Julian Zona Moreno](https://github.com/SergioZona) (sj.zona@uniandes.edu.co)
 
 Conoce más del proyecto Open Source Uniandes [aquí](https://github.com/Open-Source-Uniandes) 👈
